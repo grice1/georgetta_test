@@ -1,0 +1,16 @@
+#content {
+  color: white;
+  background-color: blue;
+}
+
+#lorem {
+  font-weight: bold;
+  font-style: italic;
+  width: 50%;
+  color: red;
+  background-color: green;
+}
+
+#ipsum {
+  color: white;
+}
