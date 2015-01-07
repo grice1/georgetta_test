@@ -14,3 +14,24 @@
 #ipsum {
   color: white;
 }
+
+#AboutUS {
+ color: blue;
+ }
+
+ p {
+   padding: 10px;
+ }
+
+.navigation {
+  overflow: auto;
+  background-color: lightblue;
+  box-shadow: 3px 3px 5px;
+  border: 1px solid green;
+}
+
+ .navigation li {
+   list-style-type: none;
+   float: left;
+   padding: 5px;
+ }

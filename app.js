@@ -11,7 +11,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/app', express.static('app'));
 app.use('/vendor', express.static('vendor'));
 
-debugger;
+
 http.createServer(app).listen(app.get('port'), function() {
   console.log('Express server at http://localhost:' + app.get('port'));
 });

@@ -1,0 +1,16 @@
+.topic2 {
+  font-weight: bold;
+  color: blue;
+}
+
+h2 {
+  color: blue;
+}
+
+.topic3, h3 {
+  color: green;
+}
+
+p {
+  font-size: 18px;
+}
